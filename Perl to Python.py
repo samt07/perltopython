@@ -9,7 +9,7 @@
 # In[ ]:
 
 
-get_ipython().system('pip install -q transformers huggingface_hub')
+#get_ipython().system('pip install -q transformers huggingface_hub')
 
 
 # In[ ]:

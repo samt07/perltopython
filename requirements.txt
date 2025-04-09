@@ -1,0 +1,7 @@
+transformers
+huggingface_hub
+openai
+google-generativeai
+anthropic
+gradio
+python-dotenv
