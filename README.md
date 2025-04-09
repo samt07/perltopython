@@ -15,8 +15,8 @@ To run this project, you need the following:
 - Google Colab account
 ### For Open source models
 - Hugging Face account with a HF token and an Inference end point for `Code_QWEN` model `Qwen/CodeQwen1.5-7B-Chat`
-### To test the app in HuggingFace directly (ONLY for gpt-4o-mini)
-- [HuggingFace](https://huggingface.co/spaces/Samhugs07/QuestionAnswersDataset)
+### To test the app in HuggingFace directly (ONLY for Frontier Models)
+- [HuggingFace](https://huggingface.co/spaces/Samhugs07/Perl-To-Python)
 
 ## Installation
 
@@ -53,7 +53,7 @@ To run this project, you need the following:
 
 ## Usage
 
-## Option 1: Test the app here [HuggingFace](https://huggingface.co/spaces/Samhugs07/QuestionAnswersDataset) (ONLY for Frontier models)
+## Option 1: Test the app here [HuggingFace](https://huggingface.co/spaces/Samhugs07/Perl-To-Python) (ONLY for Frontier models)
 
 ## Option 2: Run with locally installed Jupyter Notebook. You must have installed Python already. 
    1. Create a .env file as mentioned above
