@@ -102,7 +102,7 @@ def messages_for(perl):
 # In[ ]:
 
 
-# write to a file called script.py
+# write to a file
 
 def write_output(python, file_path):
     # Get the base filename from the path
